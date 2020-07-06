@@ -1,0 +1,16 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "value": "Salzburg"
+    },
+    {
+      "id": 2,
+      "value": "Wien"
+    },
+    {
+      "id": 3,
+      "value": "Linz"
+    }
+  ]
+}
