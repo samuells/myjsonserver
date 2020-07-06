@@ -1,17 +1,14 @@
 {
-  "clubs": [
+  "austrian_clubs": [
     {
-      "id": 1,
       "name": "Salzburg",
       "value": "Salzburg"
     },
     {
-      "id": 2,
       "name": "Wien",
       "value": "Wien"
     },
     {
-      "id": 3,
       "name": "Linz",
       "value": "Linz"
     }
