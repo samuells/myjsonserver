@@ -1,15 +1,15 @@
 {
   "austrian_clubs": [
     {
-      "name": "Salzburg",
+      "name": "FC Red Bull Salzburg",
       "value": "Salzburg"
     },
     {
-      "name": "Wien",
+      "name": "FK Austria Wien",
       "value": "Wien"
     },
     {
-      "name": "Linz",
+      "name": "LASK Linz",
       "value": "Linz"
     }
   ]
